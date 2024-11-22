@@ -1,0 +1,5 @@
+streamlit
+serial
+serial.tools.list_ports
+threading
+time
